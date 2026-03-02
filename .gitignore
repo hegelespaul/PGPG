@@ -1,0 +1,15 @@
+SingleNotes/
+FloorDataset/
+Chords_Distribution/
+
+*.zip
+*.wav
+*.png
+*.jams
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+length.py
